@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## 金融貓頭鷹 Ricky ：在黃昏中起飛
 
-You can use the [editor on GitHub](https://github.com/OwlsAboutFintech/owlsaboutfintech.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+### Ricky
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/OwlsAboutFintech/owlsaboutfintech.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+我現在想要開始幫美國與歐洲的 FinTech 公司找人
+把人推出去。但這個人需要至少是我的水準或更高
+所以我會訓練人，但不綁人
+我只是要確定我推出去的人有一定的能力
+可能為他人用、為我用
+當然我不一定是對的
+所以每個人可以自己撿他想參與培訓的程度
+...
+所以我開了一個 [臉書社團](https://www.facebook.com/groups/840713936495332)
+...
+未來我的小編會幫我弄全套 Social Media
+我只是想要對我推出去的人要能驗證，這不是大生意
+我只是想讓自己成為一個值得信任的管道
+但是這個管道的副作用就是 (1) 訓練機會與 (2) 知識學習
+我會在這邊分享這些東西
