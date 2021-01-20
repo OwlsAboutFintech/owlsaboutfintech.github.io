@@ -1,13 +1,15 @@
 
-> :hammer: 頁面仍在建置中，歡迎填寫 [EMail (Google 表單)](https://forms.gle/3aQbEWZ1iAtHmhm79)，每個月 5 號得到最新消息
+> 🛠️ 頁面仍在建置中，歡迎填寫 [EMail (Google 表單)](https://forms.gle/3aQbEWZ1iAtHmhm79)，每個月 5 號得到最新消息 🛠️
 
-[Facebook 粉絲專頁](https://www.facebook.com/OwlsAboutFintech) | [Facebook 社團](https://www.facebook.com/groups/840713936495332) | [Instagram](https://www.instagram.com/owlsaboutfintech/)
+[Facebook 粉絲專頁](https://www.facebook.com/OwlsAboutFintech) / [Facebook 社團](https://www.facebook.com/groups/840713936495332) / [Instagram](https://www.instagram.com/owlsaboutfintech/)
 
 ## 最新消息 
 
 建置中
 
 ## 願景與目標
+
+![願景](vision.png)
 
 - 訓練課程
 - 培育計畫
